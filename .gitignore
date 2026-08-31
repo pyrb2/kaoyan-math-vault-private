@@ -1,0 +1,15 @@
+# Obsidian machine-local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces/
+.obsidian/plugins/*/data.json
+
+# Generated reports that contain local absolute paths
+_assembly_report.json
+
+# OS and editor temporary files
+.trash/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
